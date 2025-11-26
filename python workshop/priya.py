@@ -1,0 +1,21 @@
+name=input("enter your name:")
+age=int(input("enter your age:"))
+college=input("enter your clg name")
+email=input("enter your email:")
+ambition=input("your ambition")
+print("name:",name)
+print(type(name))
+print("age:",age)
+print(type(age))
+print("college:",college)
+print(type(college))
+print("email:",email)
+print(type(email))
+print("ambition:",ambition)
+print(type(ambition))
+name=bool(input)
+print(f"My name is: {name}")
+print(type(name))
+
+
+
